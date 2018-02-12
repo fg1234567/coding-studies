@@ -1,0 +1,78 @@
+Brief explanations of some coding subjects
+
+
+Programming language:
+A programming language is a set of commands that come together following specific grammar rules to perform a specific task.
+
+Framework:
+A frame work is a set of programs or methods of programming to overcome complicated problems or tasks.
+
+Library:
+A library is a collection of functions, usually related to a specific topic that can be used in programs, which make programming easier.
+
+Module:
+A module is the smallest piece of a complicated program that can be compiled on its own.
+
+API:
+An API (application programming interface) is a set of clearly defined methods of communication between various software components.
+
+Markup language:
+A markup language is a programming language used to display and manipulate texts, such as HTML and XML.
+
+Agile software development:
+Agile software development is a software development methodology by which collaborations between team members are encouraged.
+
+Best practice:
+Best practice is a business term that describes the methods which a company utilizes to reach the performance and efficiency standards.
+
+Software deployment:
+Software deployment is the process of getting a program ready for market or making a program more user-friendly.
+
+Bug and debugging:
+A bug is an error or a failure in a software program that causes the program in an undesired way. The process of fixing bugs is called debugging.
+
+Design patterns:
+A design pattern is a template or description of a program to solve a particular problem and that can be used in many similar situations.
+
+Object oriented programming:
+Object oriented programming is a kind of programming in which data structures and functions are stored together.
+
+Polymorphism:
+Polymorphism is the ability to redefine methods for derived classes in object oriented languages.
+
+Encapsulation:
+Encapsulation is the processes of combining elements to create a new entity in object oriented languages.
+
+Inheritance:
+Inheritance is a feature of object oriented languages that lets a class to have the properties of another class.
+Pseudocode:
+A pseudocode is the outline of a software program that is not written according to syntax rules.
+
+Database, database management:
+A database is a collection of information organized in such a way that a computer program can quickly select desired pieces of data. 
+
+Database management is a style of programing that enables the programmer to store, modify, and extract information from a database.
+
+
+Query languages:
+Query languages are collections of programs that enable the programmer to store, modify, and extract information from a database.
+
+Computer networking:
+Computer networking is an engineering discipline that aims to study and analyze the communication process among various computing devices or computer systems that are linked, or networked, together to exchange information and share resources.
+
+Server and client model:
+The client–server model is a distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients.
+
+URL and IP:
+A  URL is the address of a World Wide Web page.  An IP address is a number assigned to each device connected to a computer network that serves two principal functions: host or network interface identification and location addressing.
+
+
+
+Protocol, communication protocol and protocol stack:
+In information technology, a protocol is the special set of rules that end points in a telecommunication connection use when they communicate. A protocol stack refers to a group of protocols that are running concurrently that are employed for the implementation of network protocol suite.
+
+HTTP, HTTP request, HTTP response:
+HTTP is the underlying protocol used by the World Wide Web and this protocol defines how messages are formatted and transmitted, and what actions Web servers and browsers should take in response to various commands.  The files a client receives from the server are called HTTP requests and the files that are sent from the servers are called HTTP responses.
+
+File, folder, directory and file path:
+A file is an object on a computer that stores data, information, settings, or commands used with a computer program. A folder, also called a directory, is a special type of file on your computer's file system which contains other files and folders.  A file path is the name of a file or directory that specifies the unique location of the file or directory in the system.
