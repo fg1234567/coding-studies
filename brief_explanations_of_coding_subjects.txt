@@ -29,7 +29,8 @@ Software deployment:
 Software deployment is the process of getting a program ready for market or making a program more user-friendly.
 
 Bug and debugging:
-A bug is an error or a failure in a software program that causes the program in an undesired way. The process of fixing bugs is called debugging.
+A bug is an error or a failure in a software program that causes the program in an undesired way. 
+The process of fixing bugs is called debugging.
 
 Design patterns:
 A design pattern is a template or description of a program to solve a particular problem and that can be used in many similar situations.
@@ -56,7 +57,9 @@ Query languages:
 Query languages are collections of programs that enable the programmer to store, modify, and extract information from a database.
 
 Computer networking:
-Computer networking is an engineering discipline that aims to study and analyze the communication process among various computing devices or computer systems that are linked, or networked, together to exchange information and share resources.
+Computer networking is an engineering discipline that aims to study and analyze the communication process among 
+various computing devices or computer systems that are linked, or networked, together to exchange information 
+and share resources.
 
 Server and client model:
 The client–server model is a distributed application structure that partitions tasks or workloads between the providers of 
@@ -67,7 +70,9 @@ A  URL is the address of a World Wide Web page.  An IP address is a number assig
 network that serves two principal functions: host or network interface identification and location addressing.
 
 Protocol, communication protocol and protocol stack:
-In information technology, a protocol is the special set of rules that end points in a telecommunication connection use when they communicate. A protocol stack refers to a group of protocols that are running concurrently that are employed for the implementation of network protocol suite.
+In information technology, a protocol is the special set of rules that end points in a telecommunication connection
+use when they communicate. A protocol stack refers to a group of protocols that are running concurrently 
+that are employed for the implementation of network protocol suite.
 
 HTTP, HTTP request, HTTP response:
 HTTP is the underlying protocol used by the World Wide Web and this protocol defines how messages are formatted and transmitted, 
