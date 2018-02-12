@@ -1,0 +1,36 @@
+programming language
+	framework
+	library
+	module
+	API
+
+markup language
+	HTML, XML	
+
+agile software development
+
+best practice
+
+Software deployment
+
+bug and debugging
+
+design patterns
+
+object-oriented programming:
+	polymorphism, encapsulation and inheritance
+
+pseudocode
+
+database, database management, query languages
+
+computer networking
+	server and client
+	URL and IP
+	protocol
+	communication protocols and protocol stack	
+	http, http request, http response
+	
+File, folder, directory, file path
+
+
