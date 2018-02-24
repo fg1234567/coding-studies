@@ -9,8 +9,15 @@ path
 
 virtual environment
 
+DNS
 
+domain name
+hosting
 
+json
 
+http,response, request (types => GET, POST ...)
+
+callback function
 
 
