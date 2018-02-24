@@ -17,7 +17,14 @@ hosting
 json
 
 http,response, request (types => GET, POST ...)
+Inspect the structure of http request/response body.
 
 callback function
+
+How does server-side (back-end) program runs/works?
+
+Where do we store the database, how do we add/delete new records?
+
+Database queries?
 
 
